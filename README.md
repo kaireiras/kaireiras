@@ -1,16 +1,13 @@
-## Hi there 👋
+<h2 align="left">Hi! I'm Rakai.</h2>
+<h3 align="left">Software Engineer Student @ UGM </h3>
 
-<!--
-**kaireiras/kaireiras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
+I'm currently work on something big.
+###
 
-Here are some ideas to get you started:
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kaireiras&theme=vue&show_icons=true&hide_border=false&count_private=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaireiras&theme=vue&show_icons=true&hide_border=false&layout=compact" height="150" alt="languages graph"  />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
