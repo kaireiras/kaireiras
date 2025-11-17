@@ -2,7 +2,7 @@
 <h3 align="left">Software Engineer Student @ UGM </h3>
 
 ###
-I'm currently work on something big.
+I'm currently working on something big.
 ###
 
 <div align="center">
